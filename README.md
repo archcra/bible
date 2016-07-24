@@ -3,6 +3,6 @@ The World English Bible (WEB) is a Public Domain (no copyright) Modern English t
 from: https://worldenglishbible.org/
 
 
-               ![](new-testamet.jpeg)
+ ![](new-testamet.jpeg)
 
 ![](Gospel-of-Luke.jpg)
